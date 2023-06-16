@@ -1,0 +1,7 @@
+[user]
+	email = laiyk5@163.com
+	name = Yikai Lai
+[init]
+	defaultBranch = main
+[core]
+	editor = vim
